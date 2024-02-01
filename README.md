@@ -15,6 +15,6 @@ Here we present an effective application of adaptive cooperative networks for as
 
 ## Contact us
 
-The easiest way to get in touch is via our [GitHub issues](https://github.com/AliciaFalconCaro/HyperCSP/issues).
+The easiest way to get in touch is via our [GitHub issues](https://github.com/AliciaFalconCaro/CrowdModelingSimulationWithDisables/issues).
 
 You are also welcome to email us at [aliciafalconcaro@gmail.com](aliciafalconcaro@gmail.com), to discuss this project, make suggestions, or just say "Hi"!
