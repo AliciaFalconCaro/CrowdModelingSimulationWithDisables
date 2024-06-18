@@ -6,7 +6,7 @@ The code provided here was tested on MATLAB2022b.
 # Citation
 **Please cite this repository as:**
 
-A. Falcon-Caro, E. Peytchev and S. Sanei, "Falcon-Caro, A.; Peytchev, E.; Sanei, S. Adaptive Network Model for Assisting People with Disabilities through Crowd Monitoring and Control. Bioengineering 2024, 11, 283. [DOI: 10.3390/bioengineering11030283](https://doi.org/10.3390/bioengineering11030283)
+Falcon-Caro, A.; Peytchev, E.; Sanei, S. Adaptive Network Model for Assisting People with Disabilities through Crowd Monitoring and Control. Bioengineering 2024, 11, 283. [DOI: 10.3390/bioengineering11030283](https://doi.org/10.3390/bioengineering11030283)
 
 ---
 
